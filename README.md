@@ -19,7 +19,7 @@ This project features **staggered grid animations, favorites, full-screen view, 
 
 ## Demo
 
-Check it live: [Random Dog Gallery](https://faizullah98.github.io/random-dog-gallery/)
+Check it live: [Random Dog Gallery](https://faizullahhussain.github.io/random-dog-gallery/)
 
 ## Technologies Used
 
@@ -33,4 +33,4 @@ Check it live: [Random Dog Gallery](https://faizullah98.github.io/random-dog-gal
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/faizullah98/random-dog-gallery.git
+git clone https://github.com/faizullahhussain/random-dog-gallery.git
